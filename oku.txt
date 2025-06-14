@@ -1,0 +1,1 @@
+Kod, hedeflere ARP zehirlemesi yapıp ağı manipüle ediyor, ardından işlemi durdurup ARP tablosunu eski haline getiriyor.
